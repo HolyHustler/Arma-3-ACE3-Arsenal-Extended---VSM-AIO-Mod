@@ -1,0 +1,15 @@
+class VSM_Multicam_Backpack_Compact { model = "VSM_Backpack_Compact"; camo = "MULTICAM"; };
+class Arid_Backpack_Compact { model = "VSM_Backpack_Compact"; camo = "MULTICAM_ARID"; };
+class Black_Backpack_Compact { model = "VSM_Backpack_Compact"; camo = "MULTICAM_BLACK"; };
+class VSM_MulticamTropic_Backpack_Compact { model = "VSM_Backpack_Compact"; camo = "MULTICAM_TROPIC"; };
+class VSM_OCP_Backpack_Compact { model = "VSM_Backpack_Compact"; camo = "OCP"; };
+class VSM_M81_Backpack_Compact { model = "VSM_Backpack_Compact"; camo = "M81"; };
+class VSM_AOR1_Backpack_Compact { model = "VSM_Backpack_Compact"; camo = "AOR1"; };
+class AOR2_Backpack_Compact { model = "VSM_Backpack_Compact"; camo = "AOR2"; };
+class Alpine_Backpack_Compact { model = "VSM_Backpack_Compact"; camo = "ALPINE"; };
+class DTS_Backpack_Compact { model = "VSM_Backpack_Compact"; camo = "DTS"; };
+class VSM_ProjectHonor_Backpack_Compact { model = "VSM_Backpack_Compact"; camo = "PROJECTHONOR"; };
+class VSM_OGA_Backpack_Compact { model = "VSM_Backpack_Compact"; camo = "OGA_TAN"; };
+class VSM_OGA_OD_Backpack_Compact { model = "VSM_Backpack_Compact"; camo = "OGA_OD"; };
+class VSM_Scorpion_Backpack_Compact { model = "VSM_Backpack_Compact"; camo = "SCORPION"; };
+class MLO_Black_Backpack_AssaultPack { model = "VSM_Backpack_Compact"; camo = "BLACK"; };

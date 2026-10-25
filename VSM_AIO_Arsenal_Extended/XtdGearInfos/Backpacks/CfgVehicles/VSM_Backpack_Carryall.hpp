@@ -1,0 +1,14 @@
+class VSM_Multicam_carryall { model = "VSM_Backpack_Carryall"; camo = "MULTICAM"; };
+class Arid_Carryall { model = "VSM_Backpack_Carryall"; camo = "MULTICAM_ARID"; };
+class Black_Carryall { model = "VSM_Backpack_Carryall"; camo = "MULTICAM_BLACK"; };
+class VSM_MulticamTropic_carryall { model = "VSM_Backpack_Carryall"; camo = "MULTICAM_TROPIC"; };
+class VSM_OCP_carryall { model = "VSM_Backpack_Carryall"; camo = "OCP"; };
+class VSM_M81_carryall { model = "VSM_Backpack_Carryall"; camo = "M81"; };
+class VSM_AOR1_carryall { model = "VSM_Backpack_Carryall"; camo = "AOR1"; };
+class AOR2_Carryall { model = "VSM_Backpack_Carryall"; camo = "AOR2"; };
+class Alpine_Carryall { model = "VSM_Backpack_Carryall"; camo = "ALPINE"; };
+class DTS_Carryall { model = "VSM_Backpack_Carryall"; camo = "DTS"; };
+class VSM_ProjectHonor_carryall { model = "VSM_Backpack_Carryall"; camo = "PROJECTHONOR"; };
+class VSM_OGA_carryall { model = "VSM_Backpack_Carryall"; camo = "OGA_TAN"; };
+class VSM_OGA_OD_carryall { model = "VSM_Backpack_Carryall"; camo = "OGA_OD"; };
+class MLO_Black_Backpack_Carryall { model = "VSM_Backpack_Carryall"; camo = "BLACK"; };
